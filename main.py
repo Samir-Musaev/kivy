@@ -85,7 +85,14 @@ class MyBL(BoxLayout):
     #         in_data = self.client.recv(4096)
     #         print("От сервера :", in_data.decode())
     #         kkk = in_data.decode()
-    #         self.set_data_label(kkk)
+    #         self.set_data_label(kkk)Введите запрос
+    #
+    #
+    #
+    #
+    #
+    #
+    # Фото профиля
 
     # @mainthread
     # def set_data_label(self, data):
